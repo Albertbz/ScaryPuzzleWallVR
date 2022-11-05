@@ -65,3 +65,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Big file stuff
+Content/MWBroadleafForest/*
+Content/MWCommon/*
